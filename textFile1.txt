@@ -1,0 +1,11 @@
+1 Go to directory and code . Open as directory as Administrator. 
+
+2 Initialiaze the repository 
+
+3 Enter a message and Stage changes in source control 
+
+4 Might have to add remote repository 
+
+5 push changes. 
+
+------------------------N
